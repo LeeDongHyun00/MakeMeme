@@ -1,6 +1,12 @@
+
 # MakeMeme — 밈 트렌드 결합 마케팅 콘텐츠 스킬
 
 마케팅 주제를 입력하면 현재 한국에서 유행 중인 밈을 웹에서 찾아 기준에 따라 판정하고, 그 유행과 주제를 결합한 **숏폼 영상 기획안**과 **SNS 게시물 문구**를 만들어 주는 AI 스킬입니다. Claude, ChatGPT, Gemini에 모두 적용할 수 있습니다.
+
+## 예시 이미지
+<img width="1254" height="1254" alt="겨울을 감싸는 프리미엄 니트 스카프" src="https://github.com/user-attachments/assets/0d5cf811-5134-4afb-83ed-ecddf3c43102" />
+<img width="1536" height="1024" alt="겨울 목도리 체포 작전 카루셀" src="https://github.com/user-attachments/assets/33b50c2a-2e0c-4bc3-be71-c07866abdef4" />
+<img width="1536" height="1024" alt="겨울 목도리 이모지 카루셀" src="https://github.com/user-attachments/assets/e0151f41-798c-441f-acc4-eec625f56364" />
 
 ## 구성
 
